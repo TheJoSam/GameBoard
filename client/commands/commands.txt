@@ -1,0 +1,22 @@
+- help
+- connect
+- disconnect
+- packager -> Backups
+    - pack
+    - unpack
+- info
+    - size
+    - path
+    - metadata
+- library
+    - add
+    - remove
+    - modify
+    - upload
+    - download
+    - select -> game
+- game
+- users (admin only)
+    - add
+    - delete
+    - modify
